@@ -4,5 +4,12 @@ version = "0.1.0"
 authors = ["Arnaud Riess <arnaud.riess@gmail.com>"]
 license = "MIT OR Apache-2.0"
 edition = "2024"
+description = "A Rust-based framework for compile-time, zero-cost traceability and specification modeling"
+repository = "https://github.com/arnoox/trace-doc"
+homepage = "https://github.com/arnoox/trace-doc"
+documentation = "https://docs.rs/trace-doc"
+readme = "README.md"
+keywords = ["traceability", "requirements", "testing", "safety-critical"]
+categories = ["development-tools"]
 
 [dependencies]
