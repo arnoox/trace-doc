@@ -1,0 +1,8 @@
+[package]
+name = "trace-doc"
+version = "0.1.0"
+authors = ["Arnaud Riess <arnaud.riess@gmail.com>"]
+license = "MIT OR Apache-2.0"
+edition = "2024"
+
+[dependencies]
